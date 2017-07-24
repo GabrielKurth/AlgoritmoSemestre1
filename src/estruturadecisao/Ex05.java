@@ -2,7 +2,7 @@
 Criar um programa para identificar se um mês digitado pelo usuário é de alta ou baixa
 temporada (considerar os seguintes meses como alta temporada: dezembro a fevereiro,
 junho e julho).
- */
+*/
 package estruturadecisao;
 
 import java.util.Scanner;
