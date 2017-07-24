@@ -8,7 +8,7 @@ sobre as demais cédulas):
 1 nota(s) de R$ 10.
 1 nota(s) de R$ 5.
 3 nota(s) de R$ 1.
- */
+*/
 package estruturadecisao;
 
 import java.util.Scanner;
