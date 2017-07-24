@@ -6,7 +6,7 @@ Uma conta telefônica é composta pelos seguintes itens:
     Ligações Internacionais (DDI): R$ 0,86 / min
 Escreva um algoritmo que lê os minutos gastos em cada tipo de ligação e que 
 mostra o valor a ser pago em cada um dos itens e, também, o valor total.
- */
+*/
 package estruturadecisao;
 
 import java.util.Scanner;
