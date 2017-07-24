@@ -1,7 +1,7 @@
 /*
 Construir um programa para identificar quantos dias há em um mês, sabendo o mês e
 o ano.
- */
+*/
 package estruturadecisao;
 
 import java.util.Scanner;
