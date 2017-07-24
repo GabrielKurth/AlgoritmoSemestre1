@@ -1,7 +1,7 @@
 /*
 Crie um programa que verifica se um número inteiro informado pelo usuário é
 divisível por 3.
- */
+*/
 package estruturadecisao;
 
 import java.util.Scanner;
