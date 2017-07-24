@@ -2,7 +2,7 @@
  Escreva um algoritmo que lê os os pontos onde uma parábola intercepta o eixo x 
 (as raízes) e o ponto onde ela intercepta o eixo y (o coeficiente c) e que 
 mostra os coeficientes a, b e c de uma equação de 2º grau que gera essa parábola.
- */
+*/
 package estruturadecisao;
 
 import java.util.Scanner;
