@@ -188,10 +188,10 @@ public class Ex21 {
         } else {
             vencedor3 = "ATAQUE";
         }
-        System.out.printf("Dados         Ataque   Defesa      Vencedor\n" +
-                          "Maior           %d       %d           %s\n" +
-                          "Meio            %d       %d           %s\n" +
-                          "Menor           %d       %d           %s\n",AtaqueMaior, DefesaMaior,
-                          vencedor1, AtaqueMeio, DefesaMeio, vencedor2, AtaqueMenor, DefesaMenor, vencedor3);
+        System.out.printf("Dados         Ataque   Defesa      Vencedor\n"
+                + "Maior           %d       %d           %s\n"
+                + "Meio            %d       %d           %s\n"
+                + "Menor           %d       %d           %s\n", AtaqueMaior, DefesaMaior,
+                vencedor1, AtaqueMeio, DefesaMeio, vencedor2, AtaqueMenor, DefesaMenor, vencedor3);
     }
 }
